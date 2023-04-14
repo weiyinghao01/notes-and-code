@@ -2,19 +2,11 @@
 
 
 
-
-
 ### 2. STL
 
 
 
-#### 1. String
-
-
-
-
-
-#### 2. Vector
+#### Vector
 
 **初始化**
 
@@ -55,6 +47,10 @@ int main()
 std::vector `letters` holds: "abc" "def" 
 Moved-from string `s` holds: ""
 ```
+
+
+
+指针 `vector<int> *te = new vector<int>(); `
 
 
 
